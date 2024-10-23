@@ -1,7 +1,7 @@
 `Work In Progress`
 
 # ShopOnline
-A responsive e-commerce website for online shopping https://shop-online-devjenny.vercel.app/
+An e-commerce website with features for a modern online shopping experience https://shop-online-devjenny.vercel.app/
 
 ## Tech Used
 - React
