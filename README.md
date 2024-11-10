@@ -1,21 +1,25 @@
-`Work In Progress`
+# Luxora
 
-# ShopOnline
-An e-commerce website with features for a modern online shopping experience https://shop-online-devjenny.vercel.app/
+An e-commerce website offering a modern online shopping experience. Built with React, TypeScript, and Tailwind CSS. Integrated libraries like ShadCN for enhanced UI components, Aceternity for animations, and EmblaCarousel for smooth product image carousels.
 
-## Tech Used
-- React
-- Typescript
-- TailwindCSS
-- Shadcn
-- EmblaCarousel
-- AceternityUI
+> [!NOTE]  
+> **This website is currently being optimized for mobile responsiveness and is best viewed at 1920px width.**
 
-<br>
+## Commands
 
-![image](https://github.com/devJennyy/shop-online/assets/135243946/2a5621d3-0ea2-418d-8076-92a3744b4dbd)
+1. Install dependencies:
 
-***
+```bash
+npm i
+```
 
-<br>
-<p align="center">☕ Designed and Developed by <a href="https://">Jenny Pieloor</a></p>
+2. Start the development server:
+
+```bash
+npm run dev
+```
+
+##
+> **Designed and Developed by [@devjenny](https://devjenny-portfolio-v2.vercel.app)**
+
+
