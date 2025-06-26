@@ -1,25 +1,13 @@
-# Luxora
+# Luxora (Old Version)
 
-An e-commerce website offering a modern online shopping experience. Built with React, TypeScript, and Tailwind CSS. Integrated libraries like ShadCN for enhanced UI components, Aceternity for animations, and EmblaCarousel for smooth product image carousels.
+This is the previous version of the Luxora e-commerce website — a modern online shopping experience built using React, TypeScript, and Tailwind CSS. It includes libraries like ShadCN for enhanced UI components, Aceternity for animations, and EmblaCarousel for smooth product image carousels.
 
-> [!NOTE]  
-> **This website is currently being optimized for mobile responsiveness and is best viewed at 1920px width.**
-
-## Commands
-
-1. Install dependencies:
-
-```bash
-npm i
-```
-
-2. Start the development server:
-
-```bash
-npm run dev
-```
+> [!Warning]  
+> ⚠️ **This is an outdated version of Luxora.**
+> 
+> 👉  View the latest version of Luxora here: [Luxora Revamp](https://github.com/devJennyy/luxora-revamp)
 
 ##
-> **Designed and Developed by [@devjenny](https://devjenny-portfolio-v2.vercel.app)**
+> **Happy Coding!**
 
 
